@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{7863D958-9B51-42E2-9725-C0F6E5393AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7863D958-9B51-42E2-9725-C0F6E5393AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7863D958-9B51-42E2-9725-C0F6E5393AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7863D958-9B51-42E2-9725-C0F6E5393AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7863D958-9B51-42E2-9725-C0F6E5393AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545AFC25-0E11-43D9-9F87-3EB204546B7F}
+	EndGlobalSection
+EndGlobal
