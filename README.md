@@ -1,0 +1,2 @@
+# DivisibleSumPairs
+HackerRank DivisibleSumPairs problem
