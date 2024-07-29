@@ -99,4 +99,4 @@ Example Output
 5
 ```
 
-Feel fre to clone the repo and contribute.
+Feel free to clone the repo and contribute.
